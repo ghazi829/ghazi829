@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghazi829&label=Profile%20views&color=0e75b6&style=flat" alt="ghazi829" /> </p>
 
 - 🔭 I’m currently working on **A personal site to showcase my projects and skills**
-- 🌱 I’m currently learning **React,Node.js, GSAP, Tailwind CSS, REST APIs, and Python**
+- 🌱 I’m currently learning **Next.js, GSAP, Tailwind CSS, REST APIs, and Python**
 
 - 👯 I’m looking to collaborate on **Front-End Projects – Especially those using React, Tailwind CSS**
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ghazi829](https://github.com/ghazi829)
 
-- 💬 Ask me about **JavaScript, React, CSS, Python, Tailwind CSS, and Front-End Development**
+- 💬 Ask me about **JavaScript, Python, Tailwind CSS, MERN-Stack Development and Front-End Development**
 
 - 📫 How to reach me **ghazipir1@gmail.com**
 
