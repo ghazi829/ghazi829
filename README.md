@@ -41,9 +41,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="art_by_pir instagram" height="30" width="40" />
 </a>
 
-<a href="#" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" alt="telegram" height="30" width="40" />
-</a>
+<a href="https://auth.geeksforgeeks.org/user/user/e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/madnansultandotme" height="30" width="40" /></a>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
