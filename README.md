@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="www.linkedin.com/in/pir-ghazi-shah-dev" target="blank">
+<a href="https://www.linkedin.com/in/pir-ghazi-shah-51b003332/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pir ghazi shah linkedin" height="30" width="40" />
 </a>
 
