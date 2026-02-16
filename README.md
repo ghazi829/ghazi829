@@ -21,25 +21,32 @@
 - 💬 Ask me about **JavaScript, Python, Tailwind CSS, MERN-Stack Development and Front-End Development**  
 - 📫 How to reach me **ghazipir1@gmail.com**  
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pir ghazi shah" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pir ghazi shah" height="30" width="40" />
+<a href="https://www.linkedin.com/in/pir-ghazi-shah" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pir ghazi shah linkedin" height="30" width="40" />
 </a>
-<a href="https://twitter.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+
+<a href="https://github.com/ghazi829" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ghazi829 github" height="30" width="40" />
 </a>
-<a href="https://instagram.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+
+<a href="https://x.com/Pirghazi01" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Pirghazi01 twitter" height="30" width="40" />
 </a>
-<a href="https://facebook.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+
+<a href="https://www.instagram.com/art_by_pir?igsh=MWZxMHBwazdpN2s1aw==" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="art_by_pir instagram" height="30" width="40" />
+</a>
+
+<a href="#" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" alt="telegram" height="30" width="40" />
 </a>
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
  ⚡ GitHub Activity Graph
@@ -85,7 +92,7 @@
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghazi829&theme=algolia&hide_border=true"/>
 </p>
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 📊 GitHub Stats
 
