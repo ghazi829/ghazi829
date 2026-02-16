@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pir Ghazi</h1>
+# 🏄‍♂️ Hello, I'm Pir Ghazi <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <h3 align="center">🚀 Always learning, always building</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif">
