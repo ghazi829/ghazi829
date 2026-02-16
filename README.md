@@ -1,5 +1,12 @@
-# 🏄‍♂️ Hello, I'm Pir Ghazi <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
+ <div align="center">
+  <img src="https://github.com/user-attachments/assets/02f7be32-0de5-4876-b2ea-2a5b00443b8d" />
+</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=madnansultandotme.visitor-badge" />
+<h1 align="center"> Hi there 👋 hope you're good.</h1>
+<h2 align="center">Welcome to my GitHub profile!</h2>
+<h1 align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&center=true&random=false&width=500&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Pir+Ghazi+Shah" alt="Typing SVG" /></a>
+</h1>
 <h3 align="center">🚀 Always learning, always building</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif">
